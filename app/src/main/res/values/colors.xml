@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A237E</color>
+    <color name="colorPrimaryDark">#0820D1</color>
+    <color name="colorAccent">#4D59DA</color>
+    <color name="green">#32CD32</color>
+    <color name="color_admin_customer_view">#f0f5f5</color>
+    <color name="color_add_product">#8C8C8C</color>
+</resources>
